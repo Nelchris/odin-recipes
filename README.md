@@ -1,2 +1,2 @@
 # odin-recipes
-This projects demostates the basics in the Odin Project HTML Foundations. It demostates the boilerplate, <h></h>, <p></p>, <stong></stong>, <em></em>, <img>, <a>, and basic git commands - add, commit, push.
+This projects demostates the basics in the Odin Project HTML Foundations. It demostates the boilerplate, heading element, paragraph element, strong element, emphasis element, image element, achor element, and basic git commands - add, commit -m, push, git status. git log.
